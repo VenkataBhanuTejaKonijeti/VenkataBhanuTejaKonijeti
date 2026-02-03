@@ -9,7 +9,7 @@ I am recognized as a **reliable team player** with strong communication skills, 
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Venkata%20Bhanu%20Teja%20Konijeti)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/Venkata%20Bhanu%20Teja%20Konijeti](https://www.linkedin.com/in/venkata-bhanu-teja-konijeti/?originalSubdomain=in))
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Venkata%20Bhanu%20Teja%20Konijeti)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Venkata%20Bhanu%20Teja%20Konijeti)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhanutejakonijeti@gmail.com)
