@@ -1,5 +1,4 @@
-## 👨‍💻 About Me
-
+# 💫 About Me:
 I am a **Data Science and Software Engineering professional** with hands-on experience in building real-world, production-ready applications. My work focuses on combining **analytical thinking, machine learning, and scalable software design** to solve complex problems efficiently.
 
 I have strong proficiency in **Python, machine learning, and full-stack web development**, with practical experience developing solutions such as **deepfake detection systems, job portal platforms, and fashion e-commerce applications**. My technical background includes designing data pipelines, performing exploratory data analysis (EDA), building and evaluating machine learning models, and deploying complete end-to-end systems.
@@ -8,58 +7,27 @@ I have completed internships in **Data Science and AWS**, where I gained exposur
 
 I am recognized as a **reliable team player** with strong communication skills, a calm and methodical debugging approach, and the ability to collaborate effectively across multidisciplinary teams.
 
----
 
-## 🌐 Connect With Me
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Venkata Bhanu Teja Konijeti) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Venkata Bhanu Teja Konijeti) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Venkata Bhanu Teja Konijeti) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Venkata Bhanu Teja Konijeti) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhanutejakonijeti@gamil.com) 
 
-[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/VenkataBhanuTejaKonijeti)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Venkata%20Bhanu%20Teja%20Konijeti)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Venkata%20Bhanu%20Teja%20Konijeti)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Venkata%20Bhanu%20Teja%20Konijeti)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhanutejakonijeti@gmail.com)
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=VenkataBhanuTejaKonijeti&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=VenkataBhanuTejaKonijeti&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VenkataBhanuTejaKonijeti&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=VenkataBhanuTejaKonijeti&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 💻 Technical Skills
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-**Programming & Development**  
-HTML, CSS, JavaScript, Java, Python, React
-
-**Data Science & Machine Learning**  
-NumPy, Pandas, Matplotlib, Scikit-Learn, EDA, Feature Engineering, Model Evaluation
-
-**Databases & Cloud**  
-MySQL, PostgreSQL, DynamoDB, AWS
-
-**Big Data & Tools**  
-Apache Hive, Git, GitHub, Power BI
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=VenkataBhanuTejaKonijeti&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=VenkataBhanuTejaKonijeti&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📊 GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VenkataBhanuTejaKonijeti&theme=dark&hide_border=false)
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=VenkataBhanuTejaKonijeti&theme=dark&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VenkataBhanuTejaKonijeti&theme=dark&layout=compact)
-
----
-
-## 🏆 Achievements
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=VenkataBhanuTejaKonijeti&theme=radical&no-frame=false&margin-w=4)
-
----
-
-## ✍️ Developer Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-## 🔝 Top Contributions
-
-![Top Contributions](https://github-contributor-stats.vercel.app/api?username=VenkataBhanuTejaKonijeti&limit=5&theme=dark)
-
----
-
-![Profile Views](https://visitcount.itsvg.in/api?id=VenkataBhanuTejaKonijeti&icon=0&color=0)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in )
